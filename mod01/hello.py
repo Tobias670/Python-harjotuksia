@@ -1,1 +1,1 @@
-
+print("Hei, maailma")
