@@ -16,3 +16,9 @@ Tein tehtävät 6.1-6.4
 Tein tehtävät 7.1-7.6
 ## Moduuli 8
 Tein tehtävät 8.1-8.3
+## Moduuli 9
+Tein tehtävät 9.1-9.4
+## Moduuli 10
+Tein tehtävät 10.1-10.4
+## Moduuli 11
+Tein tehtävät 11.1 ja 11.2
