@@ -8,7 +8,6 @@ valmiit_huoneet=[]
 parhaat_tulokset={}
 Peli=True
 
-
 def esine(tavaraluettelo):
     tavara = input("Mitä lisätään tavaraluetteloon?\n").lower()
     if len(tavaraluettelo)==1:
@@ -55,9 +54,6 @@ def tallenna_tilanne(nimi,sijainti,tavaraluettelo,siirrot,kerätyt_lamput,arvoes
             json.dump(tallennus_data,tiedosto)
         print("Peli tallennettu")
         Peli=False
-
-def lataa_tilanne(nimi):
-    import ast  # Tarvitaan listan ja sanakirjan (dict) turvalliseen lukemiseen tekstistä
 
 def lataa_tilanne(nimi):
     try:

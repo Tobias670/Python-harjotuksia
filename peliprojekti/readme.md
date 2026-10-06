@@ -13,3 +13,4 @@ Pelissä pelaaja voi ottaa mukaansa yhden tavara, joko jakkaran tai otsalampun. 
 Pelaaja myös kiertää taloa huone kerrallaan vaihtaen 2 lamppua jokaisesta huoneesta. Jokaisesta huoneesta pystyy vain vaihtamaan lamput kerran.
 Kestävän kehityksen näkökulma on otettu pelissä huomioon siten, että pelaajan tehtävänä on vaihtaa hehkulamput energiatehokkaimpiin LED-lamppuihin
 Koodissa muut toimii, mutta en saanut tallennettua tiedostoa toimimaan lataa_peli funktion kanssa, jolloin tallennetusta pelistä ei pääse jatkamaan siitä, mihin jäi(Projekti 5 tehtävä 2). Mutta toinen osa projekti 5 eli ohjeiden ja intron tulostus toisesta tiedostosta onnistui.
+Pelin ajaminen tapahtuu tiedostosta pelikoodi.py
