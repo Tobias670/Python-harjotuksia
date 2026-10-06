@@ -60,19 +60,8 @@ def lataa_tilanne(nimi):
     import ast  # Tarvitaan listan ja sanakirjan (dict) turvalliseen lukemiseen tekstistä
 
 def lataa_tilanne(nimi):
-   try:
+    try:
         with open("tallennus.json", "r", encoding="utf-8") as tiedosto:
-            tiedot = json.load(tiedosto)
-        return (
-            tiedot.get("pelaaja", nimi),
-            tiedot.get("sijainti", "eteinen"),
-            tiedot.get("tavara", []),
-            tiedot.get("siirrot", 0),
-            tiedot.get("kerätyt_lamput", 0),
-            tiedot.get("arvoesine", "0"),
-            tiedot.get("valmiit_huoneet", []),
-            tiedot.get("parhaat_tulokset", {})
-        )
-   except FileNotFoundError:
-        print("Tallennusta ei löytynyt")
+            return json.load(tiedosto)
+    except FileNotFoundError:
         return None
