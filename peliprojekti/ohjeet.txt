@@ -1,0 +1,9 @@
+Pelin ohjeet:
+
+Pelissä ideana on kulkea talossa vaihtaen talon vanhat hehkulamput LED-lamppuihin. 
+Matkaan mukaan voi ottaa yhden tavaran, joka auttaa pelaajaa eri tavoin.
+Pelin voi voittaa kolmella tavalla, vaihtaen 10 lamppua,
+tai etsien talosta 4 sattumanvaraisesti piilossa olevia arvoesineitä
+tai etsien 2 arvoesinettä ja vaihtaen vähintään 5 lamppua.
+Talossa liikkuessa on pieni mahdollisuus, että kaadut rikkoen yhden keräämäsi lampun 
+tai lamppua vaihtamisessa on että tiputat yhden lampuista menettäen yhden lampuistasi.

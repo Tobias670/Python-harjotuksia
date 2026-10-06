@@ -1,0 +1,5 @@
+Pelin intro:
+Pelini nimi on lampunvaihtaja ja kyseessä on ensimmäinen ensimmäinen pelini.
+
+Pelissä vaihdat vanhan talon hehkulamppuja energiatehokkaimpiin LED-lamppuihin
+ja samalla voit löytää talosta arvoesineitä.
